@@ -1,0 +1,10 @@
+# Funngro Robots Configuration
+# https://funngro.com/
+
+User-agent: *
+Allow: /
+Allow: /teen
+Allow: /companies
+
+# Sitemaps
+Sitemap: https://funngro.com/sitemap.xml
